@@ -11,5 +11,6 @@ Tech Stack
 
 Get in Touch
 - 📧 Email: bachchhavchetan45@gmail.com
-- 💼 LinkedIn: Chetan Patil (https://www.linkedin.com/in/chetan-bachchhav03)
+- 💼 LinkedIn: Chetan Bachchav (https://www.linkedin.com/in/chetan-bachchhav03)
+- 💻 Website : Chetan Bachchhav (https://chetanpatil03.github.io/portfolio_main/)
 
