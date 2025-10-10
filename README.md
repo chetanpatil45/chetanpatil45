@@ -1,8 +1,8 @@
 Hi, I'm Chetan
 
-I'm a student who is passionate about coding and building meaningful software.  
-I love working on the Java, Python, and exploring the exciting world of AI & Machine Learning. <br>
-Worked in exciting team which is **codeorbit** and created a **movie recommendation sys**.
+- I'm a student who is passionate about coding and building meaningful software.  
+- I love working on the Java, Python, and exploring the exciting world of AI & Machine Learning. <br>
+- Worked in exciting team which is **codeorbit** and created a **movie recommendation sys**.
 
 Tech Stack
 - Languages: Java, Python
