@@ -5,8 +5,8 @@ Hi, I'm Chetan
 - Worked in exciting team which is **codeorbit** and created a **movie recommendation sys**.
 
 Tech Stack
-- Languages: Java, Python
-- Interests: AI, Machine Learning, Backend Development
+- Languages: Java, Python, JavaScript
+- Interests: AI, Machine Learning, Backend Development, React.js
 - Databases: MySQL, MongoDB
 - Tools: Git, GitHub, VS Code, Postman
 
