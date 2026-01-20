@@ -7,10 +7,11 @@ Tech Stack
 - Languages: Java, Python, JavaScript
 - Interests: Backend Development, AI & ML, Software Developement.
 - Databases: MySQL, MongoDB, PostgreSQL
+- Frameworks: Spring, SpringBoot, JPA/Hiberante, React.js etc.
 - Tools: Git, GitHub, VS Code, Postman
 
 Get in Touch
 - 📧 Email: bachchhavchetan45@gmail.com
 - 💼 LinkedIn: Chetan Bachchav (https://www.linkedin.com/in/chetan-bachchhav03)
-- 💻 Website : Chetan Bachchhav[(https://chetanpatil45.github.io/portfolio/)]
+- 💻 Website : Chetan Bachchhav (https://chetanpatil45.github.io/portfolio/)
 
