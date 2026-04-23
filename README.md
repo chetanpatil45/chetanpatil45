@@ -9,10 +9,7 @@
 - **Backend:** Spring Boot, Spring Security, JPA/Hibernate, REST APIs
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, Visual Studio Code, Postman, Maven  
-
-### 🎯 Interests
-Backend Development • Software Engineering • AI & Machine Learning
+- **Tools:** Git, GitHub, Visual Studio Code, Postman, Maven
 
 ### 📫 Connect with Me
 - 📧 Email: bachchhavchetan45@gmail.com
