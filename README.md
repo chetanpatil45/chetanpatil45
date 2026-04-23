@@ -36,9 +36,6 @@ Backend Development • Software Engineering • AI & Machine Learning
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ### 📊 GitHub Stats
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanpatil45&show_icons=true&theme=radical)
-
-## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetanpatil45&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpatil45&layout=compact&theme=radical)
