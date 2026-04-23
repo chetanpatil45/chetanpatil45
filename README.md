@@ -39,3 +39,17 @@ Backend Development • Software Engineering • AI & Machine Learning
 
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanpatil45&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpatil45&layout=compact&theme=radical)
+
+## ✨ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chetanpatil45&theme=radical)
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chetanpatil45&theme=react-dark)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chetanpatil45&theme=radical)
+
+![snake gif](https://github.com/chetanpatil45/chetanpatil45/blob/output/github-contribution-grid-snake.svg)
