@@ -1,27 +1,15 @@
-# 👋 Hi, I'm Chetan
-
+## 👋 Hi, I'm Chetan
 ### 💻 Aspiring Java Backend Developer | MCA Student
 
----
-
-## 🚀 About Me
+### 🚀 About Me
 - 🔭 Currently building **Spring Boot backend applications**
 - 🌱 Learning **Advanced Spring Boot & System Design**
 - 💡 Interested in **Backend Development & AI/ML**
 - 🛠 Love building **real-world scalable applications**
 - 🎯 Goal: Become a **Java Backend / Full Stack Developer**
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-bachchhav03)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://chetanpatil45.github.io/portfolio)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:bachchhavchetan45@gmail.com)
-
----
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chetan-bachchhav03) | [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://chetanpatil45.github.io/portfolio) | [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:bachchhavchetan45@gmail.com)
 
 ## ⚙️ Tech Stack
 
