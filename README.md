@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Chetan
 🎓 MCA Student | Aspiring Java Backend Developer  
-💻 Passionate about coding, building scalable applications and exploring AI & Machine Learning.
+Passionate about coding, building scalable applications and exploring AI & Machine Learning.
 
 ### Tech Stack
 - **Languages:** Java, Python, JavaScript
@@ -12,10 +12,10 @@
 ### Interests
 Backend Development • Software Engineering • AI & Machine Learning
 
-### 📫 Connect with Me
-- **📧 Email:** bachchhavchetan45@gmail.com
-- **💼 LinkedIn:** https://www.linkedin.com/in/chetan-bachchhav03
-- **🌐 Portfolio:** https://chetanpatil45.github.io/portfolio
+### Connect with Me
+- **Email:** bachchhavchetan45@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/chetan-bachchhav03
+- **Portfolio:** https://chetanpatil45.github.io/portfolio
 
 ### Skills 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
